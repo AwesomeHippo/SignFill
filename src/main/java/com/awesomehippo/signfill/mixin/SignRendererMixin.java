@@ -48,7 +48,7 @@ public class SignRendererMixin {
         }
         int used = last - first + 1;
         float scale = lines.length / (float) used;
-        float widthScale = maxWidth / (float) widest;
+        float widthScale = maxWidth * 0.85F / widest;
         if (widthScale < scale) {
             scale = widthScale;
         }
