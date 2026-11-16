@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.awesomehippo.signfill.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "SignRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

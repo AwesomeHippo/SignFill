@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.awesomehippo.signfill.mixin.compat",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "AmendmentsMixin",
+    "FarmersDelightMixin",
+    "SupplementariesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
