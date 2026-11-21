@@ -127,6 +127,7 @@ repositories {
 }
 
 mixin {
+    add sourceSets.main, "${mod_id}.refmap.json"
     config "mixins.${mod_id}.json"
     config "mixins.${mod_id}.compat.json"
 }

@@ -2,7 +2,7 @@
   "required": false,
   "minVersion": "0.8",
   "package": "com.awesomehippo.signfill.mixin.compat",
-  "refmap": "mixin.refmap.json",
+  "refmap": "signfill.refmap.json",
   "compatibilityLevel": "JAVA_17",
   "mixins": [],
   "client": [
