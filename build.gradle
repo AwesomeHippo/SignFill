@@ -145,6 +145,7 @@ dependencies {
     compileOnly fg.deobf("curse.maven:amendments-896746:8657397")
     compileOnly fg.deobf("curse.maven:selene-499980:9493250")
     compileOnly fg.deobf("curse.maven:supplementaries-412082:9635391")
+    compileOnly fg.deobf("curse.maven:lets-do-vinery-704465:6965751")
 
     // Example mod dependency with JEI - using fg.deobf() ensures the dependency is remapped to your development mappings
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime

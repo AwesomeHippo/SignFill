@@ -1,5 +1,8 @@
 # Changelog
 
+### Version 1.20.1-1.20.4 - 1.2.0 (Forge) 2026-11-22
+- Add support for Vinery signs
+
 ### Version 1.20.1-1.20.4 - 1.1.0 (Forge) 2026-11-16
 - Add support for Amendments, Farmer's Delight and Supplementaries signs!!
 
